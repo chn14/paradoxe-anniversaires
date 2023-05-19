@@ -1,2 +1,1 @@
-# paradoxe-anniversaires
-Le paradoxe des anniversaires résulte de l'estimation probabiliste du nombre de personnes que l'on doit réunir pour avoir au moins une chance sur deux que deux personnes de ce groupe aient leur anniversaire le même jour. Il se trouve que ce nombre est 23.
+![Paradoxe des anniversaires](https://github.com/chn14/paradoxe-anniversaires/assets/123629446/7fcb728e-2a70-4824-af1d-2167a19e0f5d)
